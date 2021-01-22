@@ -8,6 +8,7 @@ function App() {
       <link rel="manifest" href="/manifest.json"></link>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>PERSONAL BEST</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
