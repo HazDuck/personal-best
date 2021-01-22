@@ -5,12 +5,12 @@
   "icons": [
     {
         "src": "https://icons.iconarchive.com/icons/icons8/ios7/256/Sports-Dumbbell-icon.png",
-        "sizes": "192x192",
+        "sizes": "256x256",
         "type": "image/png"
     },
     {
         "src": "https://icons.iconarchive.com/icons/icons8/ios7/256/Sports-Dumbbell-icon.png",
-        "sizes": "512x512",
+        "sizes": "256x256",
         "type": "image/png"
     }
   ],
